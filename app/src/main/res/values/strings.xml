@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">HeyPeru</string>
+    <string name="hey_per">Hey Perú</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="ingresar">INGRESAR</string>
+    <string name="registrate">Registrate</string>
+    <string name="re_password">Re Password</string>
+    <string name="create_account">Crear Cuenta</string>
+    <string name="login">Login</string>
+    <string name="lugares">Lugares</string>
+    <string name="salir">salir</string>
+    <string name="settings">Settigns</string>
+    <string name="email_example">example@gmail.com</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="places_turist">Lugar turistico</string>
+    <string name="lugar_turistico">Lugar Turistico</string>
+    <string name="starts">starts</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="clock">Trujillo - La Libertad</string>
+</resources>

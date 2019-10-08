@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menuPlacesViews"
+            android:icon="@drawable/ic_navigation"
+            android:title="@string/lugares"
+            android:checkable="true">
+        </item>
+        <item
+            android:id="@+id/menuSettings"
+            android:icon="@drawable/ic_settings"
+            android:title="@string/settings"
+            android:checkable="true">
+        </item>
+        <item
+            android:id="@+id/menuSalir"
+            android:icon="@drawable/ic_power_end"
+            android:title="@string/salir"
+            android:checkable="true">
+        </item>
+    </group>
+</menu>
